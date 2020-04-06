@@ -2,7 +2,7 @@
   "name": "eventx",
   "version": "1.0.0",
   "description": "The core implementation of vuex",
-  "main": "./dist/index.js",
+  "main": "./dist/eventx.js",
   "directories": {
     "lib": "lib"
   },

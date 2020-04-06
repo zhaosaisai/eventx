@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+rm -rf ./dist
+
+npm run build
+
 git status
 
 git add -A
